@@ -1,0 +1,461 @@
+    1  VirtualBox --startvm XP
+    2  uname -r
+    3  lsb_release
+    4  pwd
+    5  who
+    6  manual
+    7  manman
+    8  man
+    9  who man
+   10  man who
+   11  ls
+   12  cd Dekstoppwd
+   13  pwd
+   14  cd Desktop
+   15  pdw
+   16  pwd
+   17  .
+   18  ..
+   19  firefox
+   20  firefox &
+   21  uname ls
+   22  uname -r
+   23  uname man
+   24  man uname
+   25  clear
+   26  uname -r
+   27  lsb_release
+   28  cat
+   29  firefox &
+   30  uname -r
+   31  echo $0
+   32  pwd
+   33  who
+   34  ls
+   35  cd .
+   36  cd ..
+   37  cd 
+   38  pwd
+   39  clear
+   40  pwd
+   41  ls
+   42  cd Desktop
+   43  cd .
+   44  cd ..
+   45  pwd
+   46  clear
+   47  cat
+   48  firefox &
+   49  uname -r
+   50  lsb_releaselsb_release
+   51  lsb_release
+   52  cat /etc/*-release
+   53  echo $
+   54  echo $0
+   55  pwd
+   56  whoami
+   57  who
+   58  ls
+   59  cd Desktop
+   60  cd ..
+   61  pwd
+   62  cd Desktoppwd
+   63  cd Desktop
+   64  pwd
+   65  cd ..
+   66  cd Documents
+   67  cd ..
+   68  clear
+   69  pwd
+   70  ls
+   71  cd Documents
+   72  cd ..
+   73  clear all
+   74  ls
+   75  clear 
+   76  cd clear
+   77  whoami
+   78  who
+   79  release -r
+   80  firefox &
+   81  echo $0
+   82  clear
+   83  pwd
+   84  clear
+   85  ls
+   86  Desktop -ls\
+   87  Desktop -ls
+   88  clear
+   89  ls -l
+   90  ls -la
+   91  clear
+   92  ls -l
+   93  cd Dekstop
+   94  cd Desktop
+   95  cd ..
+   96  clear
+   97  cd Documents
+   98  ls -l
+   99  cd ..
+  100  cd Documents
+  101  ls -la
+  102  cd .
+  103  pwd
+  104  cd ..
+  105  ls -la
+  106  cd ..
+  107  cd .
+  108  pwd
+  109  ls -la
+  110  cd ..
+  111  ls -l
+  112  ls -la
+  113  clear
+  114  ls -l
+  115  clearclear
+  116  clear
+  117  ls
+  118  cd home
+  119  ls
+  120  cd user
+  121  clear
+  122  pwd
+  123  cd ..
+  124  cd `
+  125  cd 
+  126  cd ~
+  127  pwd
+  128  clear
+  129  firefox &
+  130  pwd 
+  131  cd ~
+  132  pwd
+  133  clear
+  134  cd /
+  135  pwd
+  136  cd /home/user
+  137  pwd
+  138  clear
+  139  cd
+  140  pwd
+  141  cd ..
+  142  clear
+  143  cd 
+  144  clear all
+  145  pwd
+  146  ls
+  147  mkdir darbi
+  148  ls
+  149  rmdir darbi
+  150  pwd
+  151  mkdir darbi
+  152  ls
+  153  ls -l
+  154  clear all
+  155  rmdir darbi
+  156  ls
+  157  clear
+  158  mkdir darbi
+  159  ls
+  160  ls -l
+  161  ls -la
+  162  clear
+  163  ls
+  164  pwd
+  165  ls
+  166  ls -la
+  167  pwd
+  168  history
+  169  clear
+  170  pwd
+  171  history
+  172  history > history.txt
+  173  ls
+  174  history.txtpwd
+  175  history.txt
+  176  open history.txt
+  177  clear all
+  178  ls
+  179  ls -la
+  180  cat history.txt
+  181  clear all
+  182  pwd
+  183  clear
+  184  ls
+  185  cat history.txt
+  186  clear
+  187  pwd
+  188  ls
+  189  clear
+  190  chrome &
+  191  clear
+  192  ls
+  193  clear
+  194  chromium-browser &
+  195  clear
+  196  ps aux |less
+  197  ls
+  198  cd darbi
+  199  ls
+  200  clear
+  201  pwd
+  202  clear
+  203  ls
+  204  clear
+  205  git init
+  206  clear
+  207  ls
+  208  git initgit init
+  209  git init
+  210  ls
+  211  git init
+  212  clear
+  213  ls
+  214  clear
+  215  ls
+  216  clear
+  217  git initgit init
+  218  git init
+  219  git add .
+  220  ls
+  221  git config --global user.email ansiiis1@gmail.com
+  222  git commit-m "20170913_09_32"
+  223  git commit -m "20170913_09_32"
+  224  git remote add origin https://github.com/rtu-etf/2017_2018_01.git
+  225  celar
+  226  clear
+  227  chromium-browser &
+  228  clear
+  229  pwd
+  230  cd ..
+  231  pwd
+  232  cd ..
+  233  pwd
+  234  ls
+  235  cd ~
+  236  pwd
+  237  ls
+  238  cd darbi
+  239  cd .
+  240  pwd
+  241  clear
+  242  pwd
+  243  ls
+  244  ls -l
+  245  ls -la
+  246  uname -r
+  247  echo $0
+  248  who
+  249  whoami
+  250  ls
+  251  cd ..
+  252  ls
+  253  ls -l
+  254  ls -r
+  255  cd ..
+  256  pwd
+  257  ls
+  258  cd user
+  259  clear
+  260  man ls
+  261  echo $0
+  262  echo man
+  263  man echo
+  264  clearmkdir
+  265  clear
+  266  ls
+  267  pwd
+  268  mkdir test
+  269  ls
+  270  rkdir test
+  271  rmdir test
+  272  ls
+  273  echo $0
+  274  $ echo tests
+  275  $0 echo test
+  276  ls
+  277  $ echo testa piemrs
+  278  echo testa piemrs
+  279  echo
+  280  echo $0
+  281  clear
+  282  echo testa piemers
+  283  x=10
+  284  echo the variable x = $x
+  285  x="kartupelis ir darzenis"
+  286  echo the variable x = $x
+  287  x
+  288  echo -e "/best /backslash /beckon"
+  289  echo -e "test /best /backslash /beckon"
+  290  echo -e "test \/best \/backslash\ /beckon"
+  291  echo -e "test \best \backslash\ beckon"
+  292  echo -e "\ntab \nir \nkel"
+  293  clear
+  294  echo -e "\ttests \tatstaqrpers"
+  295  clear
+  296  echo -e "\vikars \vasja
+  297  "
+  298  echo -e "\vikars \vasja"
+  299  echo -e "\vikars\vasja"
+  300  echo -e "\n\vikars \n \vasja"
+  301  clear
+  302  echo -e "kartupelis \r ir traks"
+  303  echo -e "kartupelis \c kaskkaddksad"
+  304  echo -n "linux nerds blank"
+  305  echo -e "tacmin something something \anerds"
+  306  echo *
+  307  echo $
+  308  echo $0
+  309  clear
+  310  echo *.txt\
+  311  ls
+  312  cd darbi
+  313  echo *.txt
+  314  cd ..
+  315  ls
+  316  ls -l
+  317  ls -la
+  318  cd ..
+  319  ls -la
+  320  echo *.img
+  321  echo *.txt
+  322  clear
+  323  echo "testeris kali" > tester
+  324  echo "darbinat" > darbi
+  325  ls
+  326  cd ~
+  327  ls
+  328  echo "test darbi" > darbi
+  329  cd darbi
+  330  ls
+  331  mkdir testamls
+  332  ls
+  333  echo "testamls ner" testamls
+  334  echo "testamls ner" > testamls
+  335  ls
+  336  rmdir testamls
+  337  ls
+  338  clear
+  339  echo "teste" > testeris
+  340  ls
+  341  cd testeris
+  342  rmdir testeris
+  343  rmdir teste
+  344  rm testeris
+  345  ls
+  346  clear
+  347  "kartupelis" > x=10
+  348  echo "kartupelis" > x=10
+  349  ls
+  350  ls -l
+  351  cat x=10
+  352  ls
+  353  cat x=10
+  354  rm x=10
+  355  clear
+  356  ls
+  357  clear
+  358  echo "rakstu bez -e"
+  359  echo -e "rakstu bez \v-e"
+  360  echo -e "rakstu bez \t-e"
+  361  echo -e "rakstu bez \r-e"
+  362  echo -e "rakstu \rbez -e"
+  363  echo -e "\rakstu bez -e"
+  364  echo -e "rak\rstu bez -e"
+  365  echo -e "rak\nstu bez -
+  366  echo -e "rak\\stu bez -e"
+  367  echo ""
+  368  "echo -n kartupelis"
+  369  -e "echo  -n kartupelis"
+  370  echo -e "echo  -n kartupelis"
+  371  lsls
+  372  echo -e "tabis\v un horiz\tontali"
+  373  clear
+  374  ls
+  375  echo "secinu, ka echo ir useful" > fails
+  376  ls
+  377  cat fails
+  378  rm fails
+  379  clear
+  380  echo -n "nav trailin"
+  381  echo -e "\n\tkartupelios"
+  382  clear
+  383  echo "\vkartupelis `vvako"
+  384  clear
+  385  chromium-browser &
+  386  echo -e "kartu\vpelis"
+  387  echo "test page" > teksts.txt
+  388  ls
+  389  rm teksts.txt
+  390  history > history.txt
+  391  cat history
+  392  cat history.txtcat history.txt
+  393  clear
+  394  ls
+  395  ls -l
+  396  ls
+  397  git init
+  398  git add .
+  399  git config --global user.name ansiiis1@gmail.com
+  400  git commit -m "20170913_11_40"
+  401  git remote add origin https://github.com/ansiiis/DMI_local.git
+  402  git remote add origin https://github.com/ansiiis/DMI_local.git push origin master
+  403  git push origin master
+  404  git remote add origin https://github.com/ansiiis/DMI_local.git push origin master
+  405  clear
+  406  ls
+  407  git init
+  408  ls -la
+  409  rm -rs .git
+  410  la
+  411  ls -la
+  412  rm -rf .git
+  413  ls -la
+  414  clear
+  415  ls -la
+  416  clear all
+  417  git init
+  418  git add .
+  419  git config --global user.name ansiiis1@gmail.com
+  420  git remote add origin https://github.com/ansiiis/DMI_local.git
+  421  push -u origin master
+  422  push origin master
+  423  git push origin master
+  424  git push -u origin master
+  425  git commit -m "initial commit"
+  426  git push origin master
+  427  clear
+  428  log out\
+  429  log out
+  430  firefox
+  431  uname -r
+  432  cd]
+  433  cd
+  434  pwd
+  435  is
+  436  ls
+  437  cd artjoms
+  438  cat otra nodarbiba.txt
+  439  echo nodarbiba > 2.txt
+  440  nano 2.txt
+  441  cd .
+  442  cd..
+  443  cd ..
+  444  pwd
+  445  who
+  446  ls -l
+  447  ls -la
+  448  cd documents
+  449  ls
+  450  cd Documents
+  451  pwd
+  452  cd ..
+  453  pwd
+  454  cd /home/user
+  455  pwd
+  456  ls -l
+  457  rmdir artjoms
+  458  cd artjoms
+  459  ls
+  460  history
+  461  history > history.txt
