@@ -1,0 +1,104 @@
+    1  VirtualBox --startvm XP
+    2  ls
+    3  nano git-download.sh
+    4  ls -l
+    5  cat git-download.sh
+    6  git-download
+    7  echo $PATH
+    8  whereis ls
+    9  ls -l /bin/ls
+   10  cat /bin/ls
+   11  ls -l
+   12  pwd
+   13  PATH=$PATH:/home/user
+   14  echo $PATH
+   15  pwd
+   16  git-download
+   17  git-download.sh
+   18  ls -l /bin/ls
+   19  chmod 744 git-download.sh
+   20  ls -l git-download.sh
+   21  git-download
+   22  git-download.sh 
+   23  ls -l
+   24  git-download.sh git download
+   25  mv git-download.sh git-download
+   26  ls -l
+   27  git-download
+   28  ls -l
+   29  cd DMI
+   30  ls -la
+   31  mv ~/git-download ./ 
+   32  ls -l
+   33  PATH=$PATH:~/DMI
+   34  git-download
+   35  ls -l
+   36  rm -rf DMI
+   37  ls -l
+   38  nano git-upload
+   39  history > history_20170920.txt
+   40  ls -l
+   41  git-upload
+   42  chmod 744 git-upload
+   43  ls -l
+   44  git-upload
+   45  ls -l
+   46  nano git-upload
+   47  nano history_20170920.txt 
+   48  git-upload
+   49  firefox &
+   50  echo $PATH
+   51  nano
+   52  ls -l
+   53  ls
+   54  whereis ls
+   55  chmod
+   56  pwd
+   57  ls -l
+   58  cat
+   59  cat git.download.sh
+   60  git-download
+   61  whereis ls
+   62  echo $PATH
+   63  firefox
+   64  nano
+   65  ls -l
+   66  cat git-download.sh
+   67  git-download
+   68  where is ls
+   69  whereis ls
+   70  ls -l /bin/ls
+   71  ls -l git-download.sh
+   72  echo $PATH
+   73  cat
+   74  cat bin/ls
+   75  cat /bin/ls
+   76  ls -l
+   77  pwd
+   78  echo $PATH
+   79  PATH=$PATH:/home/user
+   80  $PATH
+   81  echo $PATH
+   82  /bin/ls
+   83  ~/git-download.sh
+   84  git-download.sh
+   85  ls -l /bin/ls
+   86  ls -l
+   87  chmod 744 git-download.sh
+   88  ls -l
+   89  git-download.sh
+   90  ls -l
+   91  mv git-download.sh git-download
+   92  ls -l
+   93  cat git-download
+   94  cd dmi
+   95  dc DMI
+   96  cd DMI
+   97  ls -la
+   98  cp /home/user/git-download ./
+   99  ls -la
+  100  nano
+  101  ls -la
+  102  cat git-upload
+  103  git-upload
+  104  history > history_20170921.txt
