@@ -53,17 +53,22 @@ start
    49  firefox &
 parbaudit 
    50  echo $PATH
+teksta readaktors
    51  nano
+parada tiesibas/izmeru
    52  ls -l
    53  ls
    54  whereis ls
    55  chmod
    56  pwd
    57  ls -l
+paradit kas ir ieksa faila
    58  cat
    59  cat git.download.sh
    60  git-download
+kur atrodas kaut kada komanda
    61  whereis ls
+sistemas celi
    62  echo $PATH
    63  firefox
    64  nano
@@ -81,6 +86,7 @@ parbaudit
    76  ls -l
    77  pwd
    78  echo $PATH
+iedot tiesibas izpildit
    79  PATH=$PATH:/home/user
    80  $PATH
    81  echo $PATH
@@ -89,15 +95,18 @@ parbaudit
    84  git-download.sh
    85  ls -l /bin/ls
    86  ls -l
+iedot tiesibas failam izpildit
    87  chmod 744 git-download.sh
    88  ls -l
    89  git-download.sh
    90  ls -l
+mainit nosaukumu
    91  mv git-download.sh git-download
    92  ls -l
    93  cat git-download
    94  cd dmi
    95  dc DMI
+iet uz mapi
    96  cd DMI
    97  ls -la
    98  cp /home/user/git-download ./
@@ -115,6 +124,7 @@ parbaudit
   110  ls -la
   111  git-ipload
   112  git-upload
+iedot tiesibas izpildit no mapes
   113  PATH=$PATH:-/DMI
   114  git-upload
   115  PATH=$PATH:~/DMI
