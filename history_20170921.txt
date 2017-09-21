@@ -1,46 +1,35 @@
     1  VirtualBox --startvm XP
     2  ls
-faila parbaude/veidosana uzreiz ar nosaukumu/redigesana
     3  nano git-download.sh
     4  ls -l
-lasit failu
     5  cat git-download.sh
     6  git-download
-kam tiesibas
     7  echo $PATH
-kur atrodas
     8  whereis ls
     9  ls -l /bin/ls
    10  cat /bin/ls
    11  ls -l
    12  pwd
-iedot tiesibas izpildit
    13  PATH=$PATH:/home/user
    14  echo $PATH
-kur?
    15  pwd
    16  git-download
    17  git-download.sh
    18  ls -l /bin/ls
-iedot atlauju
    19  chmod 744 git-download.sh
    20  ls -l git-download.sh
    21  git-download
    22  git-download.sh 
    23  ls -l
    24  git-download.sh git download
-mainit nosaukumu
    25  mv git-download.sh git-download
    26  ls -l
    27  git-download
    28  ls -l
-iet uz mapi
    29  cd DMI
    30  ls -la
-parvietot
    31  mv ~/git-download ./ 
    32  ls -l
-pieskirt atlauju izpildit skriptus
    33  PATH=$PATH:~/DMI
    34  git-download
    35  ls -l
@@ -50,7 +39,6 @@ pieskirt atlauju izpildit skriptus
    39  history > history_20170920.txt
    40  ls -l
    41  git-upload
-iedot tiesibas
    42  chmod 744 git-upload
    43  ls -l
    44  git-upload
@@ -114,3 +102,86 @@ iedot tiesibas
   102  cat git-upload
   103  git-upload
   104  history > history_20170921.txt
+  105  ls -l
+  106  git-upload
+  107  chmod 744 git-upload
+  108  git-upload
+  109  chmod 744 git-upload
+  110  ls -la
+  111  git-ipload
+  112  git-upload
+  113  PATH=$PATH:-/DMI
+  114  git-upload
+  115  PATH=$PATH:~/DMI
+  116  git-upload
+  117  nano git-upload
+  118  nano history_20170921.txt
+  119  history > history_20170921_0950.txt
+  120  nano history_20170921_0950.txt 
+  121  git-upload
+  122  cat git-download
+  123  cat git-upload
+  124  nano history_20170921_0950.txt 
+  125  ls -l /bin/ls
+  126  la
+  127  ls -l
+  128  git-upload
+  129  nano git-upload
+  130  nano gmail
+  131  chmod 774 gmail
+  132  ls -l
+  133  gmail
+  134  time
+  135  date
+  136  gmail
+  137  nano gmail
+  138  gmail
+  139  ps
+  140  gmail
+  141  nano gmail
+  142  tutorialspoint
+  143  chmod 774 tutorialspoint
+  144  tutorialspoint
+  145  nano tutorialspoint 
+  146  tutorialspoint
+  147  nano git-upload
+  148  _ALI=10
+  149  echo $_ALI
+  150  _ALI=20
+  151  echo $_ALI
+  152  nano name
+  153  name
+  154  chmod 774 name
+  155  name
+  156  manigais=5
+  157  echo $mainigais
+  158  echo $manigais
+  159  $manigais
+  160  manigais="teksts"
+  161  $manigais
+  162  manigais=DATE
+  163  $manigais
+  164  date
+  165  manigais=date
+  166  manigais
+  167  $manigais
+  168  time
+  169  $time
+  170  $date
+  171  echo $time
+  172  echo $date
+  173  nano shell_trenins
+  174  nano shell_trenins.sh
+  175  ./shell_trenins.sh
+  176  chmod 774 shell_trenins.sh
+  177  ls -l
+  178  ./shell_trenins.sh
+  179  $NAME
+  180  echo $NAME
+  181  nano shell_trenins.sh 
+  182  echo $NAME
+  183  ./shell_trenins.sh
+  184  git-upload
+  185  nano shell_trenins.sh 
+  186  ./shell_trenins.sh
+  187  history > history_20170921.txt
