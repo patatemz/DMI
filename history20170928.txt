@@ -1,0 +1,62 @@
+a    1  VirtualBox --startvm XP
+    2  history
+    3  firefox
+    4  firefox &
+    5  git clone https://github.com/patatemz/DMI.git
+    6  ls -l
+    7  cd DMI
+    8  ls -l
+    9  nano turorialspoint
+   10  rm rf
+   11  cd ..
+   12  rm -rf
+   13  cd DMI
+   14  nano shell_examples.sh
+   15  pwd
+   16  ~/DMI/shell_examples.sh
+   17  PATH=$PATH:~/DMI
+   18  echo $PATH
+   19  ~/DMI/shell_examples.sh
+   20  chmod 744 shell_expamples.sh
+   21  chmod 744 shell_examples.sh
+   22  ~/DMI/shell_examples.sh
+   23  ls -l
+   24  ./shell_examples.sh
+   25  nano shell_examples.sh 
+   26  ./shell_examples.sh
+   27  nano shell_examples.sh 
+   28  ./shell_examples.sh
+   29  nano shell_examples.sh 
+   30  cat shell_examples.sh
+   31  nano shell_examples.sh 
+   32  ./shell_examples.sh
+   33  nano shell_examples.sh 
+   34  shell_examples.sh 
+   35  cat shell_examples.sh
+   36  echo $0
+   37  nano shell_examples.sh 
+   38  cat shell_examples.sh 
+   39  shell_examples.sh
+   40  nano shell_ex
+   41  nano shell_examples.sh 
+   42  shell_examples.sh
+   43  ./shell_examples.sh
+   44  $#
+   45  $*
+   46  $@
+   47  $?
+   48  $$
+   49  nano shell_examples.sh 
+   50  shell_examples.sh
+   51  nano shell_examples.sh 
+   52  shell_examples.sh
+   53  nano shell_examples.sh 
+   54  shell_examples.sh
+   55  shell_examples.sh arg1
+   56  shell_examples.sh arg1 arg2
+   57  shell_examples.sh arg1 arg2 arg3
+   58  nano shell_examples.sh
+   59  shell_examples.sh
+   60  shell_examples.sh arg1 arg2
+   61  nano git-upload
+   62  history > history20170928.txt
