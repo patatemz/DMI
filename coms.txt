@@ -1,0 +1,23 @@
+cat #paradit faila saturu
+cd *** #Aiziet uz direktoriju
+cp #kopet failu > nosaukums.txt uz kurieni
+chmod #pieskir tiesibas
+date #parada datumu
+echo $PATH #sistemas celi
+git clone #nokacat musu repositariju
+git-download #pasataisits skripts, atvieglo nokacat 
+git-upload #pastaisits skripts, atvieglo parvietot izmainas no masinas uz githubu
+history #parada izpildito komandu vesturi
+ls #parada saturu
+ls -l #parada saturu, izpildisanas tiesibas, izmeru un veidosanas datumu
+man #parada pieejamas komandas papild opcijas un izplides variantus
+mkdir #izveidot mapi
+mv #mainit faila nosaukumu
+nano #teksta redaktors
+PATH=$PATH:..... #pieskirt tiesibas izpildit no konkretas direktorijas
+rm #izdzest failu
+rmdir #izdsest mapi
+pwd #kur atrodies
+whereis *** #parada kur atrodas komanda
+whoami #parada kas esi 
+
