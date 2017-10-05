@@ -1,0 +1,91 @@
+    1  VirtualBox --startvm XP
+    2  firefox &
+    3  git clone https://github.com/patatemz/DMI
+    4  ls -l]
+    5  ls -l
+    6  cd DMI
+    7  PATH=$PATH:~/DMI
+    8  echo $PATH
+    9  tutorialspoint 
+   10  nano operatortest
+   11  chmod 744 operatortest 
+   12  ls -l
+   13  operatortest
+   14  nano operatortest
+   15  operatortest
+   16  nano operatortest
+   17  operatortest
+   18  nano operatortest
+   19  operatortest
+   20  -o
+   21  !
+   22  nano operatortest
+   23  operatortest
+   24  nano operatortest
+   25  operatortest
+   26  nano operatortest
+   27  operatortest
+   28  nano operatortest
+   29  operatortest
+   30  nano operatortest
+   31  operatortest
+   32  nano operatortest
+   33  operatortest
+   34  nano operatortest
+   35  operatortest
+   36  nano operatortest
+   37  operatortest
+   38  nano operatortest
+   39  operatortest
+   40  nano operatortest
+   41  operatortest
+   42  nano operatortest
+   43  operatortest
+   44  nano operatortest
+   45  operatortest
+   46  nano operatortest
+   47  operatortest
+   48  nano operatortest
+   49  operatortest
+   50  nano shell_operators.sh
+   51  chmod 744 shell_operators.sh
+   52  shell_operators.sh
+   53  nano shell_operators.sh 
+   54  shell_operators.sh
+   55  nano shell_operators.sh 
+   56  shell_operators.sh
+   57  nano shell_operators.sh 
+   58  shell_operators.sh
+   59  ls -l
+   60  shell_examples.sh 
+   61  nano shell_examples.sh 
+   62  nano shell_operators.sh 
+   63  shell_examples.sh 
+   64  shell_operators.sh
+   65  nano shell_operators.sh 
+   66  shell_operators.sh
+   67  2 * 3
+   68  nano shell_operators.sh 
+   69  shell_operators.sh
+   70  nano shell_operators.sh 
+   71  shell_operators.sh
+   72  nano shell_operators.sh 
+   73  shell_operators.sh
+   74  nano shell_operators.sh 
+   75  shell_operators.sh
+   76  nano shell_operators.sh 
+   77  shell_operators.sh
+   78  nano shell_operators.sh 
+   79  shell_operators.sh
+   80  nano shell_operators.sh 
+   81  shell_operators.sh
+   82  nano shell_operators.sh 
+   83  shell_operators.sh 50 5
+   84  nano shell_operators.sh 
+   85  shell_operators.sh 50 
+   86  nano shell_operators.sh 
+   87  shell_operators.sh 50 
+   88  shell_operators.sh 50 5
+   89  pwd
+   90  ls -lt
+   91  history > history_20171005_11_45
