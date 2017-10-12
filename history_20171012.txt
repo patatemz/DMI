@@ -1,0 +1,196 @@
+    1  VirtualBox --startvm XP
+    2  & firefox
+    3  firefox &
+    4  pwd
+    5  ls -l
+    6  git clone https://github.com/grantinsa/DMI.git
+    7  cd DMI
+    8  ls -la
+    9  #!/bin/sh
+   10  val=`expr 2 + 2`
+   11  echo "Total value : $val"
+   12  `expr $a - $b`
+   13  `expr $a + $b`
+   14  echo "Total value : $val"
+   15  -eq
+   16  nano shell_examples.sh 
+   17  shell_examples.sh
+   18  sh shell_examples.sh
+   19  nano shell_examples.sh 
+   20  sh shell_examples.sh 
+   21  nano shell_examples.sh 
+   22  sh shell_examples.sh 
+   23  nano shell_examples.sh 
+   24  sh shell_examples.sh 
+   25  nano shell_examples.sh 
+   26  sh shell_examples.sh 
+   27  nano shell_examples.sh 
+   28  sh shell_examples.sh 
+   29  nano shell_examples.sh 
+   30  sh shell_examples.sh 
+   31  nano shell_examples.sh 
+   32  sh shell_examples.sh 
+   33  nano shell_examples.sh 
+   34  sh shell_examples.sh 
+   35  nano shell_examples.sh 
+   36  sh shell_examples.sh 
+   37  nano shell_examples.sh 
+   38  sh shell_examples.sh 
+   39  nano shell_examples.sh 
+   40  sh shell_examples.sh 
+   41  nano git-upload
+   42  nano git-upload 
+   43  history > history_20171011.txt
+   44  ./git-upload
+   45  nano shell_examples.sh 
+   46  a=5
+   47  nano shell_examples.sh 
+   48  ./shell_examples.sh 5 10
+   49  nano shell_examples.sh 
+   50  ./shell_examples.sh 55 66
+   51  nano shell_examples.sh 
+   52  ./shell_examples.sh 55 66
+   53  nano shell_examples.sh 
+   54  ./shell_examples.sh 
+   55  nano shell_examples.sh 
+   56  ./shell_examples.sh 
+   57  nano sh
+   58  nano shell_examples.sh 
+   59  sh shell_examples.sh 
+   60  nano shell_examples.sh 
+   61  sh shell_examples.sh 
+   62  nano shell_examples.sh 
+   63  sh shell_examples.sh 
+   64  nano shell_examples.sh 
+   65  ./shell_examples.sh 1 56
+   66  nano shell_examples.sh 
+   67  ./shell_examples.sh 55 42
+   68  ./shell_examples.sh 1
+   69  ./shell_examples.sh  313 3133331313131313131949259259592925925925952399
+   70  ./shell_examples.sh  33133 133
+   71  nano dialogs.sh
+   72  ./dialogs.sh
+   73  ./dialogs.sh 33 33
+   74  chmod dialogs.sh 744
+   75  chmod
+   76  ls -la
+   77  chmod
+   78  chmod 744 dialogs.sh
+   79  ./dialogs.sh
+   80  ./dialogs.sh 44 44
+   81  ls -la
+   82  ./dialos.sh
+   83  ./dialogs.sh
+   84  nano dialogs.sh 
+   85  /.dialos.sh
+   86  ./dialogs.sh 
+   87  nano dialogs.sh 
+   88  nano git-upload 
+   89  history > history_20171011.txt
+   90  ./git-upload 20171011_15_30
+   91  nano git-upload 
+   92  nano git-
+   93  nano git-upload 
+   94  nano test.sh
+   95  ./test.sh
+   96  chmod
+   97  chmod 744 test.sh
+   98  ./test.sh
+   99  nano test.sh 
+  100  ./test.sh 
+  101  nano test.sh 
+  102  ./test.sh 
+  103  nano test.sh 
+  104  ./test.sh 
+  105  rlwa5l2w5l5nq25nl5l2w5n2l52w5lrllptplpltpltlptlp
+  106  nano test.sh 
+  107  ./test.sh 
+  108  >>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<
+  109  <
+  110  >
+  111  <
+  112  >
+  113  <
+  114  >
+  115  <
+  116  ###
+  117  4
+  118  42
+  119  nano test.sh 
+  120  ./test.sh 
+  121  firefox &
+  122  git clone
+  123  git clone https://github.com/patatemz/DMI
+  124  ls
+  125  cd DMI
+  126  PATH=$PATH:~/DMI
+  127  echo PATH
+  128  echo $path
+  129  echo $PATH
+  130  ls -la
+  131  nano shell_operators.sh 
+  132  tutorialspoint 
+  133  nano relop
+  134  relop
+  135  chmod 744 relop
+  136  relop
+  137  relop 10 15
+  138  relop 10 10
+  139  nano relop
+  140  relop 10 10
+  141  nano relop
+  142  relop
+  143  nano relop
+  144  relop
+  145  nano relop
+  146  relop
+  147  nano relop
+  148  relop
+  149  nano relop
+  150  relop
+  151  relop 10 15
+  152  nano relop
+  153  relop 10 10
+  154  relop 10 15
+  155  nano relop
+  156  relop\
+  157  relop
+  158  relop 10 10
+  159  relop 10 25
+  160  nano relop
+  161  relop 10 25
+  162  nano relop
+  163  relop 10 25
+  164  relop 10 10
+  165  nano relop
+  166  relop
+  167  relop 10 15
+  168  nano relop
+  169  relop 10 15
+  170  relop 15 10
+  171  nano relop
+  172  relop 10 15
+  173  nano relop
+  174  relop 10 15
+  175  nano relop
+  176  relop
+  177  relop 10 15
+  178  nano relop
+  179  nano relop 10 10
+  180  relop 10 10
+  181  relop 10 15
+  182  relop 15 10
+  183  nano relop
+  184  relop 10 10
+  185* relop5 10
+  186  relop 15 10
+  187  ls -l
+  188  hisotry
+  189  history
+  190  relop 10 10
+  191  git-upload
+  192  ls -l
+  193  git-upload 20171012_9_55
+  194  nano git-upload
+  195  history
+  196  history > history_20171012.txt
