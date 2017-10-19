@@ -1,0 +1,21 @@
+#!/bin/bash
+average () {
+max=$1
+min=$1
+avg=$1
+	for i in $*
+	do
+		if [ $i -gt $max ]
+		then
+			max=$i
+		fi
+		if [ $i -lt $min ]
+		then
+			min=$i
+		fi
+
+		avg=`expr $avg + $i`
+	done
+	printf "max = $max \n min = $min \n avg = `expr $avg / $#` \n"
+}
+average $*
