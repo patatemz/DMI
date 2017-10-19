@@ -1,0 +1,101 @@
+#!/bin/bash
+#5.piemērs
+
+numberz () {
+	for i in {2..100..1}
+	do
+		for j in {2..100..1}
+		do
+			if [ $i -ne $j -a `expr $i % $j` -eq 0 ]
+			then
+				success=0
+				break
+			fi
+			if [ `expr $i % $j` -ne 0 ]
+			then
+				success=1
+			fi
+		done
+
+		if [ $success -eq 1 ]
+		then
+				printf "$i \n"
+				succes=0
+	fi
+done
+}
+
+numberz
+
+#4.piemērs
+#echo "Input a"
+#	read a
+#echo "Input b"
+#	read b
+#echo "Input c"
+#	read c
+#
+#if
+#	[ $a -gt $b -a $a -gt $c ]
+#then
+#	echo "$a >> than all"
+#elif
+#	[ $b -gt $a -a $b -gt $c ]
+#then
+#	echo "$b >> than all"
+#elif
+#	[ $c -gt $a -a $c -gt $b ]
+#then
+#	echo "$c >> than all"
+#fi
+
+#3.piemērs
+#echo "Input a"
+#read a
+#echo "Input b"
+#read b
+#
+#if
+#	[ $a -eq $b ]
+#then
+#	echo "a=b"
+#elif
+#	[ $a -gt $b ]
+#then
+#	echo "a > b"
+#else
+#	echo "b < a"
+#fi
+
+#2.piemērs
+#echo "Enter three numbers";
+#
+#read a;
+#read b;
+#
+#echo "a=$a";
+#echo "b=$b";
+#echo "c=$c";
+#
+#if [ $a \> $b ];
+#then
+#	echo "$a is greater than $b";
+#else
+#	echo "$b is greater than $a";
+
+#fi;
+
+#1.piemērs
+#echo "enter two numbers";
+#
+#read a b;
+#
+#echo "a=$a";
+#echo "b=$b";
+#
+#if [ $a \> $b ];
+#then
+#    echo "a is greater than b";
+#else
+#    echo "b is greater than a";
+#fi

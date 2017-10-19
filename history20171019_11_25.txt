@@ -1,0 +1,174 @@
+    1  VirtualBox --startvm XP
+    2  git download
+    3  git clone
+    4  git clone https://github.com/patatemz/DMI
+    5  cd DMI
+    6  PATH=$PATH ./DMI
+    7  PATH=$PATH ~/DMI
+    8  PATH=$PATH:~/DMI
+    9  nano temp
+   10  tutorialspoint 
+   11  nano lielaks
+   12  chmod 774 lielaks
+   13  lielaks
+   14  nano lielaks
+   15  lielaks
+   16  nano lielaks
+   17  lielaks
+   18  nano lielaks
+   19  lielaks
+   20  nano lielaks
+   21  lielaks
+   22  nano lielaks
+   23  lielaks
+   24  nano lielaks
+   25  lielaks
+   26  nano lielaks
+   27  lielaks
+   28  nano lielaks
+   29  lielaks
+   30  nano lielaks
+   31  leilaks
+   32  nano lielaks
+   33  lielaks
+   34  nano lielaks
+   35  lielaks
+   36  nano lielaks
+   37  lielaks
+   38  nano lielaks
+   39  lielaks
+   40  nano lielaks
+   41  lielaks
+   42  nano lielaks
+   43  lielaks
+   44  nano lielaks
+   45  lielaks
+   46  nano lielaks
+   47  lielaks
+   48  nano lielaks
+   49  lielaks
+   50  nano lielaks
+   51  lielaks 
+   52  2
+   53  lielaks 
+   54  nano lielaks 
+   55  lielaks
+   56  nano lielaks 
+   57  lielaks
+   58  nano lielaks 
+   59  lielaks
+   60  nano lielaks 
+   61  lielaks
+   62  nano lielaks 
+   63  lielaks
+   64  nano lielaks 
+   65  lielaks
+   66  nano lielaks
+   67  lielaks
+   68  nano lielaks
+   69  lielaks
+   70  nano lielaks
+   71  leilaks
+   72  lielaks
+   73  nano lielaks
+   74  lielaks
+   75  nano lielaks
+   76  lielaks
+   77  nano lielaks
+   78  lielaks
+   79  nano lielaks
+   80  lielaks
+   81  nano lielaks
+   82  lielaks
+   83  nano lielaks
+   84  lielaks
+   85  nano lielaks
+   86  lielaks
+   87  nano lielaks
+   88  lielaks
+   89  nano lielaks
+   90  lielaks
+   91  nano lielaks
+   92  lielaks
+   93  nano lielaks
+   94  lielaks
+   95  nano lielanks
+   96  nano lielaks
+   97  lielaks
+   98  nano lielaks
+   99  lielaks
+  100  nano lielaks
+  101  lielaks
+  102  nano lielaks
+  103  lielaks
+  104  nano lielaks
+  105  lielaks
+  106  nano lielaks
+  107  nano
+  108  lielaks
+  109  nano lielaks
+  110  lielaks
+  111  nano lielaks
+  112  lielaks
+  113  nano lielaks
+  114  lielaks
+  115  nano lielaks
+  116  lielaks
+  117  nano lielaks
+  118  lielaks
+  119  nano lielaks
+  120  lielaks
+  121  nano lielaks
+  122  lielaks
+  123  nano lielaks
+  124  lielaks
+  125  nano lielaks
+  126  lielaks
+  127  nano lielaks
+  128  lielaks
+  129  nano lielaks
+  130  lielaks
+  131  nano lielaks
+  132  lielaks
+  133  nano lielaks
+  134  lielaks
+  135  nano lielaks
+  136  lielaks
+  137  nano lielaks
+  138  lielaks
+  139  nano lielaks
+  140  lielaks
+  141  nano lielaks
+  142  leilaks
+  143  lielaks
+  144  nano lielaks
+  145  lielaks
+  146  echo lielaks
+  147  lielaks
+  148  nano lielaks
+  149  lielaks
+  150  nano lielaks
+  151  lielaks
+  152  nano lielaks
+  153  lielaks
+  154  nano lielaks
+  155  lielaks
+  156  nano lielaks
+  157  lielaks
+  158  nano lielaks
+  159  lielaks
+  160  nano lielaks
+  161  lielaks
+  162  nano lielaks
+  163  lielaks
+  164  nano lielaks
+  165  lielaks
+  166  nano lielaks
+  167  lielaks\
+  168  lielaks
+  169  nano lielaks
+  170  lielaks
+  171  nano lielaks
+  172  lielaks
+  173  nano lielaks
+  174  history > history20171019_11_25.txt
