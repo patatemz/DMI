@@ -1,0 +1,29 @@
+#!/bin/bash
+#if (...) then ... elif () then ... else ... fi
+a=$1
+if (( $a > 0));
+then
+	echo "Galvenais zars (jā gad.),tad, kad $a ir > 0"
+elif (( $a  > 1 ));
+then
+	echo "Alt. zars (jā gadījumā), tad, kad $a ir > 1"
+else
+	echo "Galvenāja zara (visi atlikuši gadījumi"
+	echo "vai viennozīmīgs nē viesiem ieprekšejiem jautājumiem"
+fi
+
+#function myfunc {
+#read -p "Enter a value: " value
+#echo "adding value"
+#return $(( $value + 10 ))
+#}
+#myfunc
+#echo "The new value is $?"
+
+#if (...) the ... fi
+#a=$1
+#if (( $a > 0 ))
+#then
+#	echo "Izdr. no galv. zara (jā gad.) kad $a>0"
+#fi
+#echo "Izdruka tiks veikta jebkurā gadījuma"

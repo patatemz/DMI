@@ -1,0 +1,84 @@
+    1  VirtualBox --startvm XP
+    2  git clone
+    3  firefox &
+    4  git clone https://github.com/patatemz/DMI
+    5  PATH=$PATH:~/DMI
+    6  cd DMI
+    7  ls -l
+    8  lielaks
+    9  case
+   10  vi
+   11  nano if
+   12  ls -l
+   13  rm if
+   14  ls -l
+   15  cd DMI
+   16  ls -l
+   17  nano if
+   18  ls -l
+   19  chmod 774 if
+   20  nano if
+   21  if 10
+   22  nano if
+   23  if 10; 10
+   24  nano fi
+   25  nano if
+   26  if 10
+   27  ./if 10
+   28  PATH=$PATH:~/DMI
+   29  if 10
+   30  ls -l
+   31  if 10
+   32  ./ if 10
+   33  ./if 10
+   34  echo PATH]
+   35  PATH]
+   36  PATH
+   37  $PATH
+   38  cd ..
+   39  ls -l
+   40  cd DMI
+   41  if 10
+   42  PATH=$PATH:~/DMI
+   43  if
+   44  PATH=$PATH:~/DMI$
+   45  if 10
+   46  $PATH
+   47* 
+   48  chmod 774 if
+   49  if 10
+   50  nano if
+   51  if
+   52  ./if
+   53  ./if -10
+   54  nano if
+   55  if
+   56  ./if
+   57  nano if
+   58  ./if
+   59  ./if 10
+   60  nano if
+   61  ./if 10
+   62  nano if
+   63  ./if 10
+   64  nano if
+   65  ./if 10
+   66  nano if
+   67  nano array_loop
+   68  chmod 774 array_loop 
+   69  array_loop 
+   70  array_loop 7 5 9 3
+   71  nano array_loop
+   72  array_loop 7 5 9 3
+   73  nano if
+   74  nano array_loop 
+   75  array_loop 7 5 9 3
+   76  nano array_loop 
+   77  array_loop 7 5 9 3
+   78  nano array_loop 
+   79  array_loop 7 5 9 3
+   80  array_loop 7 5 9 3 1 121 121 121 1134 114
+   81  nano array_loop 
+   82  array_loop 7 5 9 3 1 121 121 121 1134 114
+   83  nano array_loop 
+   84  history > history_20172610_9_45.txt
