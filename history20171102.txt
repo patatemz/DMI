@@ -1,0 +1,101 @@
+    1  VirtualBox --startvm XP
+    2  git clone
+    3  git clone https://github.com/patatemz/DMI
+    4  PATH=$PATH:~/DMI
+    5  $PATH
+    6  cd dmi
+    7  ls -l
+    8  ls -la
+    9  arduino
+   10  cd dmi
+   11  cd DMI
+   12  ls -la
+   13  statistika
+   14  statistika 2 4 5
+   15  shell_operators.sh
+   16  shell_operators 1
+   17  shell_operators 1 2 3
+   18  shell_operators.sh 1 3 4
+   19  nano shel_operators
+   20  ls -l
+   21  array-loop
+   22  array_loop 
+   23  array_loop 1
+   24  mkdir PYTHON
+   25  ls
+   26  cd PYTHON
+   27  pwd
+   28  whereis python
+   29  nano hello.py
+   30  hello.py
+   31  chmod 774 hello.py
+   32  hello.py
+   33  ls -l
+   34  chmod 744 hello.py
+   35  hello.py
+   36  ls -l
+   37  ./hello.py 
+   38  PATH=$PATH:~/DMI/PYTHON
+   39  hello.py 
+   40  nano hello.py 
+   41  hello.py 
+   42  nano hello.py 
+   43  hello.py 
+   44  nano hello.py 
+   45  hello.py 
+   46  nano hello.py 
+   47  hello.py 
+   48  nano hello.py 
+   49  hello.py 
+   50  nano hello.py 
+   51  hello.py 
+   52  nano hello.py 
+   53  hello.py 
+   54  nano hello.py 
+   55  hello.py 
+   56  nano hello.py \
+   57  nano hello.py 
+   58  hello.py 
+   59  nano hello.py 
+   60  hello.py 
+   61  nano hello.py 
+   62  hello.py 
+   63  nano hello.py 
+   64  hello.py 
+   65  nano hello.py 
+   66  hello.py 
+   67  nano hello.py 
+   68  hello.py 
+   69  nano hello.py 
+   70  hello.py 
+   71  nano hello.py 
+   72  hello.py 
+   73  nano hello.py 
+   74  hello.py 
+   75  nano hello.py 
+   76  hello.py 
+   77  nano hello.py 
+   78  hello.py 
+   79  nano hello.py 
+   80  hello.py 2 2
+   81  nano hello.py 
+   82  hello.py 2 2
+   83  nano hello.py 
+   84  hello.py 2 2
+   85  hello.py
+   86  nano hello.py 
+   87  hello.py
+   88  nano hello.py 
+   89  hello.py
+   90  nano hello.py 
+   91  hello.py
+   92  nano hello.py 
+   93  hello.py
+   94  nano hello.py 
+   95  hello.py
+   96  nano hello.py 
+   97  hello.py
+   98  nano hello.py 
+   99  cd .
+  100  cd ..
+  101  history > history20171102.txt
