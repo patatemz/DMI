@@ -1,0 +1,40 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+#http://cplusplus.com/reference/cstdio/printf/?kw=printf
+
+print "------------------------MAINIGIE--------------------------"
+
+a = 65
+print type (a)
+print "Mainīgā a vērtība kā dec skaitlis ir: %d"%(a)
+print "Mainīgā a vērtība kā hex skaitlis ir: %x"%(a)
+print "Mainīgā a vērtība kā oct skaitlis ir: %o"%(a)
+print "Mainīgā a vērtība kā simbols ir: %c"%(a)
+
+print "----------------------------------------------------------"
+
+b = 'B'
+print type (b)
+print "Mainīgā b vērtība kā dec skaitlis ir: %d"%(ord(b))
+print "Mainīgā b vērtība kā hex skaitlis ir: %x"%(ord(b))
+print "Mainīgā b vērtība kā oct skaitlis ir: %o"%(ord(b))
+print "Mainīgā b vērtība kā simbols ir: %c"%(ord(b))
+
+print "----------------------------------------------------------"
+
+c = '\n'
+print type (c)
+print "Mainīgā c vērtība kā dec skaitlis ir: %d"%(ord(c))
+print "Mainīgā c vērtība kā hex skaitlis ir: %x"%(ord(c))
+print "Mainīgā c vērtība kā oct skaitlis ir: %o"%(ord(c))
+print "Mainīgā c vērtība kā simbols ir: %c"%(c)
+
+print "----------------------------------------------------------"
+
+d = 8.5
+print type (d)
+print "Mainīgā d vērtība kā dec skaitlis ir: %d"%(d)
+print "Mainīgā d vērtība kā hex skaitlis ir: %x"%(d)
+print "Mainīgā d vērtība kā oct skaitlis ir: %o"%(d)
+#print "Mainīgā d vērtība kā simbols ir: %c"%(int(round(d)))
+print "Mainīgā d vērtība kā simbols ir: %10.3f"%(d)
