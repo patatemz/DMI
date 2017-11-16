@@ -1,0 +1,68 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/patatemz/DMI
+    3  cd DMI
+    4  cd PYTHON
+    5  PATH=$PATH~/DMI/PYTHON
+    6  echo PATH
+    7  echo $PATH
+    8  ls -l
+    9  hello
+   10  hello.py
+   11  if.py
+   12  ./if.py
+   13  nano if.py
+   14  ./if.py
+   15  while
+   16  ./while
+   17  nano while
+   18  ./while
+   19  ./while\
+   20  ./while
+   21  ls -l
+   22  nano sin_cs.py
+   23  chmod 744 sin_cs.py 
+   24  ./sin_cs.py
+   25  nano sin_cs.py 
+   26  ./sin_cs.py
+   27  nano sin_cs.py 
+   28  ./sin_cs.py
+   29  nano sin_cs.py 
+   30  ./sin_cs.py
+   31  nano sin_cs.py 
+   32  ./sin_cs.py
+   33  cp sin_cs.py sin_cs2.py
+   34  nano sin_cs.py 
+   35  nano sin_cs2.py 
+   36  ./sin_cs2.py 
+   37  ./sin_cs2.py \
+   38  ./sin_cs2.py
+   39  cp sin_cs2.py sin_cs3.py
+   40  nano sin_cs3.py
+   41  ./sin_cs3.py
+   42  nano sin_cs3.py
+   43  ./sin_cs3.py
+   44  nano sin_cs3.py
+   45  ./sin_cs3.py
+   46  nano sin_cs3.py
+   47  ./sin_cs3.py
+   48  nano sin_cs3.py
+   49  ./sin_cs3.py
+   50  cp sin_cs3.py sin_cs4.py
+   51  nano sin_cs4.py
+   52  ./sin_cs4.py
+   53  nano sin_cs4.py
+   54  ./sin_cs4.py
+   55  nano sin_cs4.py
+   56  ./sin_cs4.py
+   57  cp sin_cs4.py sin_cs5.py
+   58  nano sin_cs5.py
+   59  ./sin_cs5.py
+   60  nano sin_cs5.py
+   61  ./sin_cs5.py
+   62  nano sin_cs5.py
+   63  cp sin_cs5.py sin_cs
+   64  nano sin_cs
+   65  ./sin_cs
+   66  cd ..
+   67  cd DMI
+   68  history > history2017116.txt
