@@ -1,0 +1,11 @@
+    1  VirtualBox --startvm XP
+    2  ls -l
+    3  sin_cs.py
+    4  ./sin_cs.py
+    5  nano sin_cs
+    6  nano sin_cs.py
+    7  nano sin_cs1.py
+    8  nano sin_cs2.py
+    9  idle
+   10  cd ..
+   11  history > history20171123.txt

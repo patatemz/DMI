@@ -1,0 +1,10 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+from math import asin
+
+x = input("Lietotāj, lūdzu, ievadi argumentu (x): ")
+print type (x)
+y = asin(x)
+print "asin(%.2f)=%.2f"%(x,y)
+
