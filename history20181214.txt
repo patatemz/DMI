@@ -1,0 +1,4 @@
+    1  VirtualBox --startvm XP
+    2  firefox &
+    3  git clone https://github.com/patatemz
+    4  history > history20181214.txt
