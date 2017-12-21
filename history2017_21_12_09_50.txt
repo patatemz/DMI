@@ -1,0 +1,13 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://gihtub.com/patatemz/DMI
+    3  ls
+    4  git clone https://gihtub.com/patatemz/DMI
+    5  git clone https://github.com/patatemz/DMI
+    6  cd DMI
+    7  mkdir FINAL
+    8  cd FINAl
+    9  ls -l
+   10  cd FINAL
+   11  nano index.html
+   12  cd ..
+   13  history > history2017_21_12_09_50.txt
