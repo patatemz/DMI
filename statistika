@@ -3,6 +3,7 @@ average () {
 max=$1
 min=$1
 avg=$1
+med=$1
 	for i in $*
 	do
 		if [ $i -gt $max ]
@@ -13,9 +14,13 @@ avg=$1
 		then
 			min=$i
 		fi
+		if [ $i != 0 ]
+		then
+			med=$i
+		fi
 
 		avg=`expr $avg + $i`
 	done
-	printf "max = $max \n min = $min \n avg = `expr $avg / $#` \n"
+	printf "max = $max \n min = $min \n avg = `expr $avg / $#` \n med = $med \n"
 }
 average $*

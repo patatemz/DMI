@@ -1,0 +1,30 @@
+#!/bin/bash
+echo -e "lietotaj,ievadi skaitlus:"
+n
+
+n=$#
+
+	sakartot=($(printf "%s\n" "${num[@]}" | sort -n))
+		echo ${sakartot[@]}
+		echo "MIN:" ${sakartot[0]}
+		echo "MAX:" ${sakartot[n-1]}
+
+
+	sum=0
+		for((i=0;i<n;i++))
+		do
+			sum=`expr $sum + ${num[$i]}`
+		done
+
+	vidver=$sum/$n
+		echo -n "Videja vertiba: "
+		echo $vidver|bc
+
+	if (( n%2 != 0 ))
+	then
+	        echo -n "Mediana:"
+        	echo "${sakartot[($n-1)/2]}" | bc
+	else
+        	echo -n "Mediana:"
+        	echo "scale=1;(${sakarot[$n/2]} + ${sakartot[$n/2-1]})/2" |bc
+	fi
