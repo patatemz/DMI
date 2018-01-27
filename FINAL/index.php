@@ -117,7 +117,7 @@ li2 {
    Uzdevumi:<br>
    Tabula ar atlikumiem no dalījuma
     </p>
-     <a href="http://github.com/patetmz/DMI" target="_blank"><img src="https://github.com/patatemz/DMI/blob/master/FINAL/LD1.png?raw=true" /></a> 
+     <a href="https://github.com/patatemz/DMI/blob/master/PYTHON/tabula.py" target="_blank"><img src="https://github.com/patatemz/DMI/blob/master/FINAL/LD1.png?raw=true" /></a> 
     <p>
       Apraksts:<br>
 	  Uzdevuma galvenais mērķis ir iemācīties ievades nolasi un pareizu izvades sintaksi
@@ -141,7 +141,7 @@ li2 {
    Summas vērtības attēlošana;
    
     </p>
-     <a href="https://github.com/patatemz/DMI/blob/master/LD0.sh" target="_blank"><img src="https://github.com/patatemz/DMI/blob/master/FINAL/ld2.png?raw=true" /></a> 
+     <a href="https://github.com/patatemz/DMI/blob/master/FINAL/LD2.py" target="_blank"><img src="https://github.com/patatemz/DMI/blob/master/FINAL/ld2.png?raw=true" /></a> 
     <p>
       Apraksts:<br>
 	  Uzdevuma galvenais mērķis ir iemācīties ekonomēt datora resursus, izmantojot matemātiski elegentākus risinājumus 
@@ -162,7 +162,7 @@ li2 {
 	<p>Klases darbs</p>
 	<br>
 	    </p>
-     <a href="http://github.com/patetmz/DMI" target="_blank"><img src="https://github.com/patatemz/DMI/blob/master/FINAL/LD3_11.png?raw=true" /></a>
+     <a href="https://github.com/patatemz/DMI/blob/master/FINAL/LD3.py" target="_blank"><img src="https://github.com/patatemz/DMI/blob/master/FINAL/LD3_11.png?raw=true" /></a>
 	 <img src="https://github.com/patatemz/DMI/blob/master/FINAL/LD3_12.png?raw=true" />
 	 	<p>Individuālais darbs</p>
 	<br>
