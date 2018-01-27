@@ -120,7 +120,7 @@ li2 {
      <a href="https://github.com/patatemz/DMI/blob/master/PYTHON/tabula.py" target="_blank"><img src="https://github.com/patatemz/DMI/blob/master/FINAL/LD1.png?raw=true" /></a> 
     <p>
       Apraksts:<br>
-	  Uzdevuma galvenais mērķis ir iemācīties ievades nolasi un pareizu izvades sintaksi
+	  Uzdevuma galvenais mērķis ir izveidot tabulu no naturāliem skaitļiem ar dalijumiem
     </p>
 </div>
 <hr>
@@ -185,7 +185,7 @@ li2 {
 	<br>
 	<p>
       Apraksts:<br>
-	  Uzdevuma galvenais mērķis ir iemācīties lietot python, lai aprēķinātu vienkāršas matemātiskās funkcijas un attēlotu tās vienā grafikā
+	  Uzdevuma galvenais mērķis ir iemācīties lietot python, lai aprēķinātu vienkāršas matemātiskās funkcijas, atrast dotas funkcijas pirmo un otro atvasinājumu un attēlotu tās vienā grafikā
     </p>
 </div>
 <hr>
@@ -206,7 +206,7 @@ li2 {
 	<br>
     <p>
       Apraksts:<br>
-	  Uzdevuma galvenais mērķis ir iemācīties pielietot Montekarlo metodi matemātiskiem aprēķiniem
+	  Uzdevuma galvenais mērķis ir iemācīties pielietot Montekarlo metodi
     </p>
 </div>
 <hr>
@@ -220,7 +220,7 @@ li2 {
       <a href="https://github.com/patatemz/DMI/blob/master/darbi/L1C/test" target="_blank"><img src="https://github.com/patatemz/DMI/blob/master/FINAL/LD6.png?raw=true" /></a> 
    <p>
       Apraksts:<br>
-	  Uzdevuma galvenais mērķis ir iemācities kodēsanas/dekodēsanas pamatprincipus un iepazīties ar darbu caur remote serveri, iemācīties -ssh lietošanas pamatprincipus
+	  Uzdevuma galvenais mērķis ir atkodēt tekstu, iemācīties -ssh lietošanas pamatprincipus
     </p>
 </div>
 
