@@ -277,10 +277,10 @@ li2 {
     <li>Python: vide ērtam darbam ar Python'u - idle</li>
     <li>Python: Python skriptu piemēri:</li>
        <dd><li1><a target="_blank" href="https://github.com/patatemz/DMI/blob/master/PYTHON/dialogs.py">Python: skripta neliels apraksts - lietotajs ievada </br> savu vardu un uzvardu un programma izvadis to uz ekrana.</a></li> </dd>   
-       <dd><li1><a target="_blank"a href="https://github.com/patatemz/DMI/blob/master/PYTHON/mainigie">Python: mainīgie</a></li1></dd>
+       <dd><li1><a target="_blank" href="https://github.com/patatemz/DMI/blob/master/PYTHON/mainigie">Python: mainīgie</a></li1></dd>
        <dd><li1><a target="_blank" href="https://github.com/patatemz/DMI/blob/master/PYTHON/if.py">Python: nosacījuma operators</a></li1></dd>
        <dd><li1><a target="_blank" href="https://github.com/patatemz/DMI/blob/master/PYTHON/while">Python: cikla operators(i)</a></li1></dd>
-       <dd><li1><a target="_blank" href="">Python: lietotāja funkcija</a></li1></dd>
+       <dd><li1><a target="_blank" href="https://github.com/patatemz/DMI/blob/master/PYTHON/sin_caur_summu.py">Python: lietotāja funkcija</a></li1></dd>
        <dd><li1><a target="_blank" href="https://github.com/patatemz/DMI/blob/master/darbi/L1C/test">Python: darbs ar failiem</a></li1></dd>
    </ul>
             <div>
