@@ -144,7 +144,7 @@ li2 {
      <a href="https://github.com/patatemz/DMI/blob/master/FINAL/LD2.py" target="_blank"><img src="https://github.com/patatemz/DMI/blob/master/FINAL/ld2.png?raw=true" /></a> 
     <p>
       Apraksts:<br>
-	  Uzdevuma galvenais mērķis ir iemācīties ekonomēt datora resursus, izmantojot matemātiski elegentākus risinājumus 
+	  Uzdevuma galvenais mērķis ir iemācīties ekonomēt datora resursus, izmantojot matemātiski elegentākus risinājumus izmantojot izvirzījumu Teilora rindā
     </p>
 </div>
 <hr>
@@ -168,7 +168,7 @@ li2 {
 	<br>
     <p>
       Apraksts:<br>
-	  Uzdevuma galvenais mērķis iemācīt studentm, kā lietot dihotomijas metodi un zīmēt vienkāršus grafikus ar pyplot palīdzību.
+	  Uzdevuma galvenais mērķis iemācīties kā lietot dihotomijas metodi un zīmēt vienkāršus grafikus ar pyplot palīdzību, kā arī funkcijas sakņu noteikšana
     </p>
 </div>
 <hr>
@@ -206,7 +206,7 @@ li2 {
 	<br>
     <p>
       Apraksts:<br>
-	  Uzdevuma galvenais mērķis ir iemācīties pielietot Montekarlo metodi matemātiskiem aprēķiniem.
+	  Uzdevuma galvenais mērķis ir iemācīties pielietot Montekarlo metodi matemātiskiem aprēķiniem
     </p>
 </div>
 <hr>
@@ -220,7 +220,7 @@ li2 {
       <a href="https://github.com/patatemz/DMI/blob/master/darbi/L1C/test" target="_blank"><img src="https://github.com/patatemz/DMI/blob/master/FINAL/LD6.png?raw=true" /></a> 
    <p>
       Apraksts:<br>
-	  Uzdevuma galvenais mērķis ir iemācities kodēsanas/dekodēsanas pamatprincipus un iepazīties ar darbu caur remote serveri. Arī iemācīties ssh lietošanas pamatprincipus.
+	  Uzdevuma galvenais mērķis ir iemācities kodēsanas/dekodēsanas pamatprincipus un iepazīties ar darbu caur remote serveri, iemācīties -ssh lietošanas pamatprincipus
     </p>
 </div>
 
