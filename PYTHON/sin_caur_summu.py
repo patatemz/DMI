@@ -18,7 +18,7 @@ def mans_sinuss(x):
         k=k+1
     return S
     
-x=float(eval(input("Lietotāj, ievadi argumentu x!\n")))
+x=float((input("Lietotāj, ievadi argumentu x!\n"))
 y=sin(x)
 print("standarta(%6.2f)=%6.2f"%(x,y))
 yy=mans_sinuss(x)
